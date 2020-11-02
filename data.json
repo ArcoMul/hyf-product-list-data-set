@@ -1,5 +1,7 @@
 [
     {
+        "id": "12345abcdef",
+        "slug": "classic-wooden-chair",
         "name": "Classic wooden chair",
         "price": 34.5,
         "image": "wooden-chair.jpg",
@@ -7,6 +9,8 @@
         "description": "The simple and straight forward, yet classic look of the Benjamin 2-pc ladder back chair set allows them to be used with a variety of decors from country to contemporary. Their design and Light Oak finish Pair up well with our 34130 Light Oak finish square dining table"
     },
     {
+        "id": "12346abcdef",
+        "slug": "happy-flower-chair",
         "name": "Happy flower chair",
         "price": 199,
         "image": "flower-chair.jpg",
@@ -14,6 +18,8 @@
         "description": "Whether you are looking for a cozy corner to kick back and relax or if you are just looking to upgrade your interior aesthetics, our accent chair is the perfect addition to any home. Featuring a minimalistic yet sophisticated design, this chair is sure to delight in both style and comfort. The beautifully tapered legs and sturdy build of the chair provide reliable stability while its plush upholstery offers outstanding comfort. With a streamlined structure, our chair will blend seamlessly into any existing decor. "
     },
     {
+        "id": "12347abcdef",
+        "slug": "relaxing-rocking-chair",
         "name": "Relaxing rocking chair",
         "price": 124.99,
         "image": "relaxing-chair.jpg",
@@ -21,6 +27,8 @@
         "description": "Integrated footrest, adjust to 5 positions to meet different different demand; Comfortable relax rocking chair with foot rest design, lounge chair,recliners with poly-cotton fabric cushion. The rocking chairs provide an exceptionally comfortable and enjoyable place to relax. Integrated footrest, adjust to 5 positions to meet different different demand. Birch veneer frame with a removable poly-cotton cover cushion. Minimal assembly required."
     },
     {
+        "id": "12348abcdef",
+        "slug": "black-arm-less-chair",
         "name": "Black arm-less chair",
         "price": 90,
         "image": "black-chair.jpg",
@@ -28,6 +36,8 @@
         "description": "Simplistic in its design, the Boss Box Arm Guest Chair W/Mahogany Finish by Boss Office Products offers a sleek black upholstery that is made using the Caressoft technology. Not only is this upholstery durable, but it is also easy to clean with just a little bit of soap and water. The legs feature a mahogany wood that adds to the classic ambiance of the piece and at just 34 pounds, the chair can quickly be relocated from one room to another."
     },
     {
+        "id": "12349abcdef",
+        "slug": "grey-arm-chair",
         "name": "Grey arm chair",
         "price": 159.99,
         "image": "black-chair.jpg",
